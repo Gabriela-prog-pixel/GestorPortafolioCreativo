@@ -1,0 +1,95 @@
+========================================
+   REPORTE DE PORTAFOLIO DE PROYECTOS   
+========================================
+Total de proyectos: 10
+----------------------------------------
+Proyecto #1
+  ID          : 001
+  Nombre      : Diseno Web Restaurante
+  Categoria   : UI
+  Cliente     : Brosso
+  Anio        : 2026
+  Presupuesto : 1200 Bs.
+  Estado      : En progreso
+----------------------------------------
+Proyecto #2
+  ID          : 003
+  Nombre      : Logo Restaurante El Sabor
+  Categoria   : Branding
+  Cliente     : Restaurante El Sabor
+  Anio        : 2022
+  Presupuesto : 1000 Bs.
+  Estado      : Completado
+----------------------------------------
+Proyecto #3
+  ID          : 005
+  Nombre      : Cartel Festival de Cine
+  Categoria   : Ilustracion
+  Cliente     : CineBolivia
+  Anio        : 2024
+  Presupuesto : 800 Bs.
+  Estado      : Completado
+----------------------------------------
+Proyecto #4
+  ID          : 007
+  Nombre      : Manual de Marca Boutique
+  Categoria   : Branding
+  Cliente     : Boutique Luna
+  Anio        : 2024
+  Presupuesto : 2100 Bs.
+  Estado      : Completado
+----------------------------------------
+Proyecto #5
+  ID          : 009
+  Nombre      : Prototipo App Turismo
+  Categoria   : UX
+  Cliente     : BoliviaTour
+  Anio        : 2020
+  Presupuesto : 3800 Bs.
+  Estado      : Pausado
+----------------------------------------
+Proyecto #6
+  ID          : 011
+  Nombre      : Video Corporativo ONG
+  Categoria   : Video
+  Cliente     : FundaVida
+  Anio        : 2026
+  Presupuesto : 4270 Bs.
+  Estado      : En progreso
+----------------------------------------
+Proyecto #7
+  ID          : 013
+  Nombre      : Ilustracion Libro Infantil
+  Categoria   : Ilustracion
+  Cliente     : Editorial Arco Iris
+  Anio        : 2023
+  Presupuesto : 1500 Bs.
+  Estado      : Completado
+----------------------------------------
+Proyecto #8
+  ID          : 015
+  Nombre      : Identidad Visual Cafeteria
+  Categoria   : Branding
+  Cliente     : Cafe Central El Topo
+  Anio        : 2025
+  Presupuesto : 1850 Bs.
+  Estado      : Pausado
+----------------------------------------
+Proyecto #9
+  ID          : 017
+  Nombre      : Landing Page Consultora
+  Categoria   : Web
+  Cliente     : ConsultoraBP
+  Anio        : 2022
+  Presupuesto : 2630 Bs.
+  Estado      : Completado
+----------------------------------------
+Proyecto #10
+  ID          : 019
+  Nombre      : Campana Visual Producto Leche
+  Categoria   : Branding
+  Cliente     : Lacteos del Valle
+  Anio        : 2024
+  Presupuesto : 3100 Bs.
+  Estado      : En progreso
+----------------------------------------
